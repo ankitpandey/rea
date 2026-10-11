@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "rea": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["scripts/rea.mjs", "mcp"]
+    }
+  }
+}
